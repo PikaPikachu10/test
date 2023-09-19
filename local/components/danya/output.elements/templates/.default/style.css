@@ -1,0 +1,10 @@
+.iblock-elements {
+    display: flex;
+    flex-direction: column;
+}
+
+.iblock-element {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
